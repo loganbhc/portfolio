@@ -338,10 +338,10 @@ main {
   gap: 15px;
 }
 
-.avatar-box {
+/* .avatar-box {
   background: var(--bg-gradient-onyx);
   border-radius: 20px;
-}
+} */
 
 .info-content .name {
   color: var(--white-2);
@@ -702,13 +702,13 @@ main {
 
 .modal-close-btn ion-icon { --ionicon-stroke-width: 50px; }
 
-.modal-avatar-box {
+/* .modal-avatar-box {
   background: var(--bg-gradient-onyx);
   width: max-content;
   border-radius: 14px;
   margin-bottom: 15px;
   box-shadow: var(--shadow-2);
-}
+} */
 
 .modal-img-wrapper > img { display: none; }
 
@@ -1465,12 +1465,12 @@ textarea.form-input::-webkit-resizer { display: none; }
     align-items: center;
   }
 
-  .modal-avatar-box {
+  /* .modal-avatar-box {
     border-radius: 18px;
     margin-bottom: 0;
-  }
+  } */
 
-  .modal-avatar-box img { width: 65px; }
+  /* .modal-avatar-box img { width: 65px; } */
 
   .modal-img-wrapper > img {
     display: block;

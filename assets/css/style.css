@@ -18,8 +18,8 @@
 :root {
 
 .avatar-box img {
-    width: 150px;           /* same width as your HTML */
-    height: 150px;          /* required for perfect circle */
+    width: 170px;           /* same width as your HTML */
+    height: 170px;          /* required for perfect circle */
     border-radius: 50%;    /* makes the image circular */
     object-fit: cover;     /* crops perfectly */
     border: 2px solid #ddd; /* optional border */
